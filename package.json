@@ -1,0 +1,21 @@
+{
+  "name": "native-style-animation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "locomotive-scroll": "^4.1.4"
+  },
+  "devDependencies": {
+    "vite": "^6.0.6"
+  }
+}
